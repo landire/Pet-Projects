@@ -1,0 +1,6 @@
+{
+    "serverPort": 5000,
+    "dbURL": "mongodb+srv://landire:82EgdCikLCkaVhb@cloud-storage.ny16aad.mongodb.net/?appName=cloud-storage",
+    "secretKey": "Arsen",
+    "filePath": "C:\\Users\\olegh\\OneDrive\\Desktop\\cloud-storage\\server\\files"
+}

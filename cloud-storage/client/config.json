@@ -1,0 +1,5 @@
+{
+    "apiPort": 5000,
+    "apiURL": "http://localhost",
+    "secretKey": "Arsen"
+}
